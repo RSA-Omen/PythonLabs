@@ -1,0 +1,6 @@
+walk
+shower
+gym
+run
+gym
+shower
