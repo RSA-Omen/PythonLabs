@@ -1,6 +1,7 @@
 walk
-shower
-gym
+code something
 run
 gym
 shower
+test more code
+edit mistakes
