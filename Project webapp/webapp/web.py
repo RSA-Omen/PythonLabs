@@ -1,13 +1,9 @@
 """
 # My first app
-Here's our first attempt at using data to create a table:
 """
 
 import streamlit as st
-import pandas as pd
-df = pd.DataFrame({
-  'first column': [1, 2, 3, 4],
-  'second column': [10, 20, 30, 40]
-})
 
-df
+st.title("My Todo App")
+st.subheader("This is my todo app.")
+st.write("This app is to help you track your todos.")
